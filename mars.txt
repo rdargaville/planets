@@ -1,2 +1,4 @@
 Cold and dry, but everything is our favourite colour
 Added a line from the Desktop
+This line was added from laptop
+There was a conflict here, but not anymore
